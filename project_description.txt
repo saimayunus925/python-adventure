@@ -7,4 +7,16 @@ OK, idea.
 1) Give the hero some traits - not sure what to do with these. Maybe use them for dialogue options?
 2) Give the hero powers/skills - each one is connected to some # of attack points.
 3) Give the hero an initial amount of health: attacks decrease the health. 
-4) 
+
+Create a Character class: the Hero, Villain, and NPC classes will inherit from this class. 
+
+Don't make it an overtly political game, or employers will be mad. If you must put in politics, make it 
+milquetoast "underdog hero vs. evil executives" type stuff. 
+
+OK, let's come up with an idea for a game plot. It shouldn't be totally stupid, and it should be something people 
+can relate to. 
+
+So because of the Hero/Villain/NPC characters, the health, the attack points, this game will probably
+take place in a different world. Oh, yeah, I also need classes for different creatures. 
+
+
