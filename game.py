@@ -10,8 +10,15 @@
 class Character:
     # class attribute, doesn't change depending on instances
     health = 10000
-    def __init__(self, traits=[], powers_or_skills=[]):
-        self.traits = traits
-        self.powers_or_skills = powers_or_skills
+    def __init__(self, atk, traits=[], powers_map={}, skills=[]):
+        self.traits = traits 
+        self.powers_map = powers_map
+        self.atk = atk
+        self.skills = skills
+
+    # so 'powers_map' is a dictionary
+    # the keys are the power names themselves, i.e. 'flight', 'super intelligence', 
+    
+    # appending a trait or power or skill to the existing list to use
 
 
