@@ -1,0 +1,10 @@
+A text-based adventure game in Python. I just need to come up with a good story and back it up with coding skills.
+
+Hmmm...
+
+OK, idea.
+
+1) Give the hero some traits - not sure what to do with these. Maybe use them for dialogue options?
+2) Give the hero powers/skills - each one is connected to some # of attack points.
+3) Give the hero an initial amount of health: attacks decrease the health. 
+4) 
